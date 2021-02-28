@@ -1,6 +1,6 @@
 # Azure-Envirment-using-Terraform
 
-I created Terraform modules that can build an environment with different attributes and featrures:
+I created Terraform modules that can build an environment with different attributes and features:
  
 •	Resource Groups
 
@@ -22,7 +22,7 @@ I created Terraform modules that can build an environment with different attribu
 
 •	 Build a key vault in a separate resource group and generate new certificates.
 
-•	Installcertificates to the virtual machines 
+•	Install certificates to the virtual machines 
 
 •	Changing the number of VMs
 
